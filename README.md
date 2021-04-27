@@ -1,1 +1,3 @@
-# Geometric-shape-detection-with-colors-C-
+# Geometric-shape-detection-with-colors-C++
+
+Visual studio 2015
