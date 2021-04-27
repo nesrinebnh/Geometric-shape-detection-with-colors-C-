@@ -1,0 +1,10 @@
+﻿  visionproject.cpp
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(189): warning C4101: 'j' : variable locale non référencée
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(199): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(212): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(220): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(352): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(548): warning C4101: 'line' : variable locale non référencée
+c:\users\asus\documents\visual studio 2015\projects\visionproject\visionproject\visionproject.cpp(548): warning C4101: 'col' : variable locale non référencée
+  visionproject.vcxproj -> C:\Users\ASUS\documents\visual studio 2015\Projects\visionproject\x64\Debug\visionproject.exe
+  visionproject.vcxproj -> C:\Users\ASUS\documents\visual studio 2015\Projects\visionproject\x64\Debug\visionproject.pdb (Full PDB)
